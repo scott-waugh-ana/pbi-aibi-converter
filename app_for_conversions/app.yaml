@@ -6,6 +6,6 @@ command: [
 
 env:
   - name: DATABRICKS_WAREHOUSE_ID
-    value: "5034f353f14955ad" # Change it to your Warehouse ID
+    value: "10a878412d504b3d" # Change it to your Warehouse ID
   - name: LLM_MODEL
     value: "databricks-claude-opus-4-6"
